@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heeramenon&label=Profile%20views&color=0e75b6&style=flat" alt="heeramenon" /> </p>
 
-- 📫 How to reach me **heera2002menon@gmail.com**
+→ Reach me **heera2002menon@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny.**
+→ Just to say **I think I'm funny.** 😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
