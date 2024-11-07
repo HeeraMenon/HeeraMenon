@@ -9,9 +9,9 @@
 
 → Just to say **I think I'm funny.** 😉
 
-<h3 align="left">About my Page:</h3>
+<h3 align="left">My Page:</h3>
 <p align="left">
-My journey through various amazing projects worthy to be stored!
+A look into various projects I've worked on and learned from - includes machine learning, software projects, distributed systems, Tkinter, GUI concepts, and others.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
