@@ -1,6 +1,6 @@
 ![MasterHead](https://www.colorado.edu/alumni/sites/default/files/attached-files/classof2020-linkedincoverphoto_3.jpg)
-<h1 align="center">You've reached my Page! </h1>
-<h3 align="center">This is Heera and I'm a CU Boulder graduate student pursuing her master of science in Computer Professional Science :)</h3>
+<h1 align="center">Heyy, You've reached my Page! </h1>
+<h3 align="center">I'm Heera,  a CU Boulder graduate student pursuing her Masters in Computer Science :)</h3>
 <img align="right" alt="Coding" width="310" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heeramenon&label=Profile%20views&color=0e75b6&style=flat" alt="heeramenon" /> </p>
