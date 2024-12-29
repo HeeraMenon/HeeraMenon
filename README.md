@@ -1,4 +1,3 @@
-![MasterHead](https://www.colorado.edu/alumni/sites/default/files/attached-files/classof2020-linkedincoverphoto_3.jpg)
 
 # Heyy, you've reached my Page!
 <img align="right" alt="Coding" width="310" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
