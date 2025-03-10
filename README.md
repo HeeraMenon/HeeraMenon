@@ -2,7 +2,7 @@
 # Heyy!
 <img align="right" alt="Coding" width="310" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
-➙ Pursuing MS in Computer Science at University of Colorado Boulder <br>➙ Software Development engineer and AI/ML enthusiast<br>➙ Completed BTech. in CSE with 9.06 CGPA<br>➙ Currently exploring Deep Learning and User-Centered Development <br><br><br><br> <br>
+➙ Pursuing MS in Computer Science at University of Colorado Boulder <br>➙ Software Development engineer and AI/ML enthusiast<br>➙ Completed BTech. in CSE with 9.06 CGPA<br>➙ Currently exploring Neural Networks and Deep Learning <br><br><br><br> <br>
 
 
 # Tech Stack:
